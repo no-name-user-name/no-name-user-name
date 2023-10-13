@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Django and React<br>🎯 Goals: Earn 1₿ in 2024<br>🎲 I also like to play games, think and solve interesting logic problems.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Django and React<br>🎯 Goals: bad goal...<br>🎲 I also like to play games, think and solve interesting logic problems.</p>
 
 ###
 
